@@ -1,5 +1,5 @@
 # Capstone Project: Corpus Forge
-### Sebastian, Valsal and Michee Lucas
+### Sebastian, Vatsal and Michee Lucas
 
 ### Retrieval-Grounded AI Workflows
 
