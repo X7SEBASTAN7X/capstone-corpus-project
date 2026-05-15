@@ -1,8 +1,7 @@
 # Capstone Project: Corpus Forge
-
+### Sebastian, Valsal and Michee Lucas
 
 ### Retrieval-Grounded AI Workflows
-
 
 
 The plaform must support:
