@@ -11,4 +11,4 @@
 * Apply good source control and software engineering practices:
     - meaningful commit messages. Use 'feat', 'fix', 'refactor', 'docs', etc. prefixes to indicate the type of change.
     - commit early and often.
-    - you may use branches if you are comfortable with Git, but the main branch should always be in a runnable state.
+    - you may use branches if you are comfortable with Git, but the main branch should always be in a runnable state. 
