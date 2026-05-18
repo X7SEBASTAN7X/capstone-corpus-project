@@ -25,3 +25,8 @@
 - **Hook Version**: 1.02
 - **Date**: 18-05-2026 11:55
 - **Prompt**: conceptually explain to me how i could use flask to connect an existing html page such that i can retrieve files uploaded to the html and store them in a folder in this directory
+
+### **New Interaction**
+- **Hook Version**: 1.02
+- **Date**: 18-05-2026 11:55
+- **Prompt**: Log that the user asked for a conceptual explanation of how to use Flask to connect an HTML page for file uploads. No code was changed. Initiated Socratic questioning regarding HTML form attributes and HTTP methods.
